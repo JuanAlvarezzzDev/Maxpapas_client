@@ -1,0 +1,9 @@
+export const categoriaPapas = 10;
+export const categoriaBebidas = 9;
+export const categoriaSalsas = 8;
+export const categoriaAdiciones = 7;
+export const categoriaAlas = 11;
+export const BoomGrangero = 22;
+export const cantidadCard = 3;
+export const Transferencia = 2;
+export const Efectivo = 1;
